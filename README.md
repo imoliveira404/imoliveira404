@@ -1,4 +1,4 @@
-<p align="left">"As pessoas buscam por uma força que já existe dentro delas."</p>
+> *"As pessoas buscam por uma força que já existe dentro delas."*
 
 ###
 
