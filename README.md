@@ -16,13 +16,18 @@
 
 ###
 
-<h3 align="left">About Me</h3>
-
-###
-
-<p align="left">public class Main {<br>    public static void main(String[] args) {<br>        Person olga = new Person(<br>            "Computer Science", <br>            "Java Developer", <br>            "Learning new stuffs everyday" <br>        );  <br>    }<br>}</p>
-
-###
+## About Me
+```typescript
+public class Main {
+    public static void main(String[] args) {
+        Person me = new Person( 
+            "Computer Science", 
+            "Java Developer", 
+            "Learning new stuffs everyday" 
+        );
+    }
+}
+```
 
 <h3 align="left">🛠 Language and tools</h3>
 
