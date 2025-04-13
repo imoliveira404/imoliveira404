@@ -17,7 +17,7 @@
 ###
 
 ## About Me
-```typescript
+```java
 public class Main {
     public static void main(String[] args) {
         Person me = new Person( 
